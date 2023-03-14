@@ -28,7 +28,7 @@
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
 
         <!-- https://github.com/payneteasy/mini-framework/tags -->
-        <mini-framework.version>     1.0-5  </mini-framework.version>
+        <mini-framework.version>     1.0-6  </mini-framework.version>
 
         <!-- https://github.com/payneteasy/startup-parameters/tags -->
         <startup-parameters.version> 1.0-10 </startup-parameters.version>
