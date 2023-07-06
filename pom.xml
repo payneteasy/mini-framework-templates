@@ -40,7 +40,7 @@
         <http-client.version>        1.0-6  </http-client.version>
 
         <!-- https://github.com/evsinev/jetty-util/tags -->
-        <jetty-util.version>         1.0-12  </jetty-util.version>
+        <jetty-util.version>         1.0-13  </jetty-util.version>
 
         <!-- https://github.com/evsinev/freemarker-util/tags -->
         <freemarker-util.version>     1.0-6  </freemarker-util.version>
